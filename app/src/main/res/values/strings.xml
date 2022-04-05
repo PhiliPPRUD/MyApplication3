@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="logo">Погода</string>
+    <string name="hint_user_field">Введите Город</string>
+    <string name="main_btr">УЗНАТЬ</string>
+    <string name="result_info">Погода в вашем городе</string>
+    <string name="no_user_input">Введите текст</string>
+    <string name="expect">Ожидайте...</string>
+</resources>
